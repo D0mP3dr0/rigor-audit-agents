@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Rigor audit agents for ML and geoscience pipelines"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: "Seelig"
+    given-names: "Luis Felipe Comodo"
+    orcid: "https://orcid.org/0009-0000-6095-3864"
+abstract: >-
+  A framework of Claude Code subagents, campaign skills, protocols and small
+  standard-library tools for auditing the rigor of machine-learning and
+  geoscience pipelines: narrow fronts that answer one question with a
+  script-backed JSON artifact, adversarial verification by three votes with
+  execution-only refutation, a coverage critic, and a coordinator that judges
+  only artifacts. Includes a synthetic geospatial example with a planted
+  spatial leakage and a planted unseeded split.
+keywords:
+  - reproducibility
+  - machine learning
+  - geoscience
+  - spatial cross-validation
+  - data leakage
+  - research software
+  - AI agents
+  - audit

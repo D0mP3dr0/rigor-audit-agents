@@ -1,0 +1,5 @@
+{
+ "seed": 42,
+ "k": 7,
+ "test_fraction": 0.25
+}
